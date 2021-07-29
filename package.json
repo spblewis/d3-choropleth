@@ -1,0 +1,34 @@
+{
+  "name": "d3-choropleth",
+  "version": "1.0.0",
+  "description": "A d3 choropleth map depicting educational attainment in the US",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spblewis/d3-choropleth.git"
+  },
+  "keywords": [
+    "D3.js",
+    "choropleth",
+    "education"
+  ],
+  "author": "Schuyler Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spblewis/d3-choropleth/issues"
+  },
+  "homepage": "https://github.com/spblewis/d3-choropleth#readme",
+  "devDependencies": {
+    "css-loader": "^6.2.0",
+    "eslint": "^7.31.0",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.47.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "d3": "^7.0.0"
+  }
+}
